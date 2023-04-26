@@ -1,0 +1,10 @@
+2023-01-24 09:42:40,148 INFO Initiate Process : mysqlgpp
+2023-01-24 09:42:40,156 INFO Action : Runtime
+2023-01-24 09:42:40,156 INFO Validating Parameters
+2023-01-24 09:42:40,156 INFO Param 1 : database
+2023-01-24 09:42:40,156 INFO Param 2 : table
+2023-01-24 09:42:40,156 INFO Param 3 : fields
+2023-01-24 09:42:40,156 INFO Param 4 : host
+2023-01-24 09:42:40,156 INFO Param 5 : username
+2023-01-24 09:42:40,156 INFO Param 6 : password
+2023-01-24 09:42:40,156 INFO Param 7 : port
